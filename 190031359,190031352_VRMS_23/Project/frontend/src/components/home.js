@@ -51,10 +51,10 @@ class Home extends React.Component {
                 <div className="firstSection">
                     <div className="main-box">
                         <div className="firstHalf">
-                            <p className="text-big1">𝙍𝙀𝙉𝙏 𝙄𝙏</p>
-                            <p className="text-big1"> 𝙍𝙀𝙇𝙄𝘼𝘽𝙇𝙀 𝘼𝙉𝘿 𝙎𝘼𝙁𝙀</p>
+                            <p className="text-big1"></p>
+                            <p className="text-big1"> </p>
                             <div className="text-big1">
-                            𝙔𝙤𝙪𝙧 𝙩𝙧𝙪𝙨𝙩𝙚𝙙 𝙧𝙞𝙙𝙚 𝙛𝙤𝙧 𝙚𝙫𝙚𝙧𝙮 𝙤𝙘𝙘𝙖𝙨𝙞𝙤𝙣!
+                          
                             </div>
                             <br></br>
                             
